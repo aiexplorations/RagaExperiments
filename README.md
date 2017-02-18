@@ -1,7 +1,7 @@
 # Raga Experiments
 Carnatic music is an ancient art form from southern India, and like its northern Indian counterpart, is a systematic combination of melodic and rhythmical patterns. This repository contains code written in Scala for demonstrating the Carnatic ragas, or scales. 
 
-Raga Experiments is developed and maintained by Rajesh RS ( http://rexplorations.wordpress.com / https://twitter.com/rexplorations / https://linkedin.com/in/rajeshrs ). Meera Sundar ( http://twitter.com/msundr ), a Carnatic music violinist is a contributor of ideas to this too. And hopefully she'll submit code too, someday!
+Raga Experiments is developed and maintained by Rajesh RS ( http://rexplorations.wordpress.com / https://twitter.com/rexplorations / https://linkedin.com/in/rajeshrs ). My wife Meera Sundar ( http://twitter.com/msundr ), a Carnatic music violinist, is a contributor of ideas to this too. And hopefully she'll submit code too, someday!
 
 ## Why Scala?
 
@@ -26,9 +26,9 @@ Three great composers in the Carnatic music tradition are all considered saints 
 
 The objective of this set of experiments is to:
 
-# Model a raga as a sequence of swaras with an easy interface (Arrays of strings as input to the ragas)
-# Generate a sequence of swaras based on the definition of a particular raga
-# Play this sequence of swaras using the JavaFX Midi interface
+* Model a raga as a sequence of swaras with an easy interface (Arrays of strings as input to the ragas)
+* Generate a sequence of swaras based on the definition of a particular raga
+* Play this sequence of swaras using the JavaFX Midi interface
 
 Further to this, I am interested in experimenting with a functional style of programming in Scala to generate some of the raga alapanas and sequences. More in the code!
 
