@@ -3,6 +3,10 @@ Carnatic music is an ancient art form from southern India, and like its northern
 
 Raga Experiments is developed and maintained by Rajesh RS ( http://rexplorations.wordpress.com / https://twitter.com/rexplorations / https://linkedin.com/in/rajeshrs ). My wife Meera Sundar ( http://twitter.com/msundr ), a Carnatic music violinist, is a contributor of ideas to this too. And hopefully she'll submit code too, someday!
 
+# RagaFlow
+
+Within RagaExperiments, I'm trying to put together deep learning models that can recognize ragas in Carnatic music. You can find more about this in the notebook I've put together on RagaFlow. Someday I hope to extend the functionality of this model, to support more than the 7 ragas it currently supports, perhaps a few hundred ragas eventually. This means training on lots of data - and that data engineering challenge is front and centre for me right now in the context of RagaFlow.
+
 ## Why Scala?
 
 Scala is uniquely capable of modeling some of the problems involving sequences and patterns. Although much of the current code base is object oriented in nature and makes limited use of closures, significant improvements can be made to the code base by adopting a functional style for generating patterns, which I hope to incorporate in coming versions of the code base.
