@@ -1,0 +1,10 @@
+# .gitignore
+target/
+.idea/
+.vscode/
+*.log
+*.class
+*.jar
+node_modules/
+dist/
+build/
